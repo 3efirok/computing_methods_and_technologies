@@ -1,0 +1,19 @@
+# Virtual environment and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Teacher's pdf guidelines and raw archives
+computing-methods-and-technologies-main/
+computing-methods-and-technologies-main.zip
+lab1_26.pdf
+lab2_26.pdf
+lab3_26.pdf
+lab4_26.pdf
+lab5_26.pdf
+
+# Temporary scripts
+generate_report.py
+Lab2/generate_report.py
